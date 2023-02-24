@@ -54,7 +54,7 @@ require (
 	github.com/weaveworks/common v0.0.0-20200429090833-ac38719f57dd
 	go.etcd.io/bbolt v1.3.3
 	go.etcd.io/etcd v0.0.0-20200401174654-e694b7bb0875 // indirect
-	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b
+	golang.org/x/net v0.7.0
 	google.golang.org/grpc v1.26.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/fsnotify.v1 v1.4.7
